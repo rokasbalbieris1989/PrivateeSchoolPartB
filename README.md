@@ -1,0 +1,2 @@
+# PrivateSchool
+ PrivateSchool(Console Application)
